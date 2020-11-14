@@ -123,21 +123,21 @@ footer {
         display:block !important;
     }
     #fixed {
-    background: url(img/backgrounds/Natural_Cracked_Marble%20.jpeg) no-repeat center center;
-    display: table;
-    height: 60%;
-    position: relative;
-    width: 100%;
-    background-size: cover;
+        background: url(img/backgrounds/Natural_Cracked_Marble%20.jpeg) no-repeat center center;
+        display: table;
+        height: 60%;
+        position: relative;
+        width: 100%;
+        background-size: cover;
     }
     #home {
-    background: url('img/backgrounds/Pale_Pink_Marble.jpeg') no-repeat center center;
-    display: table;
-    height: 90%;
-    position: relative;
-    width: 100%;
-    background-size: cover;
-    margin-top: 100px;
+        background: url('img/backgrounds/Pale_Pink_Marble.jpeg') no-repeat center center;
+        display: table;
+        height: 90%;
+        position: relative;
+        width: 100%;
+        background-size: cover;
+        margin-top: 100px;
     }
 }
 
